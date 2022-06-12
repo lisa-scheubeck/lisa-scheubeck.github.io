@@ -2,9 +2,9 @@
 layout: post
 title: Getting started
 subtitle: Why I started writing down my thoughts
-# cover-img: /assets/img/path.jpg
+cover-img: /assets/img/path.jpeg
 # thumbnail-img: /assets/img/thumb.png
-# share-img: /assets/img/path.jpg
+share-img: /assets/img/path.jpeg
 tags: [books, test]
 ---
 
