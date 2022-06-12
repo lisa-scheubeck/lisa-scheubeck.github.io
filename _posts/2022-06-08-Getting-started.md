@@ -5,21 +5,23 @@ subtitle: Why I started writing down my thoughts
 cover-img: /assets/img/path.jpeg
 # thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpeg
-tags: [books, test]
+tags: [Support, Customers, Introduction]
 ---
 
-Who I am and what I do: 
+### Who I am and what I do: 
 
 My name is Lisa, I am 26 years old and for a bit more than one year I am working in the Support and Operations Team of a Startup. We are providing a load management system for charging infrastructure and the additional charging hardware. We are providing this product to a lot of different types of customers.
 Support and Operations for the smart charging products is the mission of a small team, presented by me and my colleague (and our manager). There is First and Second Level Support for soft- and hardware, which is within my scope. Followed by Third Level Support for load management software, which is my colleague's task. Communication facing the customers is only made through First and Second Level.
 This results in me facing 500 customer sites.
 
-## How I came up with the idea to write down my thoughts and experiences? 
+### How I came up with the idea to write down my thoughts and experiences? 
 
 *Spoiler*: It was not me who had the idea. 
 
 I was traveling back from a wedding in Münster together with my boyfriend, using the time on our train ride to collect some inspiration for a new project at work. I was asked if I would like to develop new SLAs for our Smart Charging Support. As I am only working in this field for 13 months and I had no experience in the Support field I was searching online for some ideas and best practices. But very quickly I was facing one problem: I could not find content. Most of the things I could find are not very detailed or for less technical products. The best practices of customer service for pizza delivery didn’t seem to help me much. Being frustrated and close to giving up my online research I complained to my boyfriend. And he came up with the idea to create the content on my own. If I struggle to find it online, others will go through the same struggles. I could create value for myself and others by writing down my thoughts and what I learned during my journey.
+
 So here I am writing about it.
+
 Before my time in this company, I never worked in customer support. I applied because the company seemed attractive to me. The position in Customer Support was supposed to be my entrance to the company. I was not even sure if I would like to work in customer support. In the end, my manager could convince me to join the team. Once being part of the team I needed to jump into the cold water. After 2 weeks, a very short and intense onboarding, I was asked to take care of our sites. Providing technical hard- and software support to a variety of different customers. Most of the things about support, how to handle customers, and what I know about our product. I learned all this myself.
 
 For everyone new in Customer Support and everyone else who is interested I would like to summarize what I learned within my first year in technical Customer Support:
