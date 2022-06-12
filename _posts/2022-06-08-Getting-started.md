@@ -26,12 +26,12 @@ Before my time in this company, I never worked in customer support. I applied be
 
 **For everyone new in Customer Support and everyone else who is interested I would like to summarize what I learned within my first year in technical Customer Support:**
 
-**1.** Private customers are impatient. In case they are affected by Hardware issues they want a new charger asap. Repair is ok but only if you can provide it fast
-**2.** Complex products and customers don’t work well together: the more complex your product is (meaning technical details, usage, add-ons) the harder it is for your customer. There is more space for questions. Provide a solution that is as easy as possible. Don’t expect that customers will read an E-Mail or long manuals.
-**3.** Small companies behave similarly to end customers.
-**4.** Companies with different branches will forget about the project manager located in the headquarters. They will contact customer support. Always add the project manager to topics (especially if decisions are needed or things are at risk to be escalated). He or she will handle the situation within their company and will come back to you.
-**5.** Big customers or fleets are important customers to you and they want to be handled as such. They want to feel important to you.
-**6.** In any case, customers want to get regular updates on their tickets. They want to see that you are working on it. No update means no progress to them. Even if you are still waiting for a third party or don’t have any news: give regular updates. In case of critical situations: agree with the customer on a timespan in which you will update him or her about the progress.
+1. Private customers are impatient. In case they are affected by Hardware issues they want a new charger asap. Repair is ok but only if you can provide it fast
+2. Complex products and customers don’t work well together: the more complex your product is (meaning technical details, usage, add-ons) the harder it is for your customer. There is more space for questions. Provide a solution that is as easy as possible. Don’t expect that customers will read an E-Mail or long manuals.
+3. Small companies behave similarly to end customers.
+4. Companies with different branches will forget about the project manager located in the headquarters. They will contact customer support. Always add the project manager to topics (especially if decisions are needed or things are at risk to be escalated). He or she will handle the situation within their company and will come back to you.
+5. Big customers or fleets are important customers to you and they want to be handled as such. They want to feel important to you.
+6. In any case, customers want to get regular updates on their tickets. They want to see that you are working on it. No update means no progress to them. Even if you are still waiting for a third party or don’t have any news: give regular updates. In case of critical situations: agree with the customer on a timespan in which you will update him or her about the progress.
 
 
 
